@@ -1,4 +1,4 @@
-# Patrick Waithaka(1) CV Patrick(1)
+# Patrick Waithaka(.) CV Patrick(.)
 
 ## NAME
 Patrick Waithaka
